@@ -16,7 +16,7 @@
 
 ## 2. Create a Google Apps Script
 
-- Click on `Tools > Script Editor…` which should open a new tab.
+- Click on `Tools > Script Editor…` which should open a new tab. Kalo sekarang ke extension dan app script
 - Rename it `Submit Form to Google Sheets`. _Make sure to wait for it to actually save and update the title before editing the script._
 - Now, delete the `function myFunction() {}` block within the `Code.gs` tab.
 - Paste the following script in it's place and `File > Save`:

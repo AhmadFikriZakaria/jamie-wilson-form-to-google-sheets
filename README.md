@@ -75,7 +75,7 @@ function doPost (e) {
 - Click `Allow`
 
 ## 4. Add a new project trigger 
-- Click on `Edit > Current project’s triggers`. 
+- Click on `Edit > Current project’s triggers`.  ini masuk ke apps scriptnya yah trs pilih pemicu/trigger dg logo jam
 - In the dialog click `No triggers set up. Click here to add one now.` 
 - In the dropdowns select `doPost`
 - Set the events fields to `From spreadsheet` and `On form submit`
